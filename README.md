@@ -25,4 +25,4 @@ pip install -r requirements.txt
 
 # 7. Type Ctrl+Shift+P ->  “Python: Select Interpreter” and select the one that points to your new virtual environment
 
-# 8. •	If virtual environment not founded then find the path will include your folder and .<venv>\Scripts\python.exe
+# 8. If virtual environment not founded then find the path will include your folder and .<venv>\Scripts\python.exe
