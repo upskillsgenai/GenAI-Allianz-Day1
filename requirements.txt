@@ -6,3 +6,4 @@ pypdf
 chromadb
 python-dotenv
 ipykernel
+scikit-learn
