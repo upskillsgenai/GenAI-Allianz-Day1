@@ -27,7 +27,6 @@ pip install -r requirements.txt
 
 # 8. If virtual environment not founded then find the path will include your folder and .<venv>\Scripts\python.exe
 
-
 # Generative AI Learning Resources
 
 A curated list of resources to get started with Generative AI, Large Language Models, and LangChain.
